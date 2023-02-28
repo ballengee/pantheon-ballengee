@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-06-30 14:08-0400\n"
+"PO-Revision-Date: 2015-06-30 14:08-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/menu.class.php:28 includes/templates/admin-menu.html.php:3
+msgid "Ninja Forms"
+msgstr ""
+
+#: includes/actions/emma.php:36 includes/admin/menu.php:12
+#: includes/templates/admin-menu.html.php:3
+msgid "Emma"
+msgstr ""
+
+#: includes/admin/menu.php:15
+msgid "Public API Key"
+msgstr ""
+
+#: includes/admin/menu.php:16
+msgid "Private API Key"
+msgstr ""
+
+#: includes/admin/menu.php:17
+msgid "Account ID"
+msgstr ""
+
+#: includes/admin/menu.php:38
+msgid "Regular"
+msgstr ""
+
+#: includes/admin/menu.php:39
+msgid "Test"
+msgstr ""
+
+#: includes/admin/menu.php:40
+msgid "Hidden"
+msgstr ""
+
+#: includes/admin/submissions.php:45 includes/admin/submissions.php:74
+msgid "Emma Member ID"
+msgstr ""
+
+#: includes/admin/submissions.php:93
+msgid "Emma Information"
+msgstr ""
+
+#: includes/templates/action-emma.html.php:4
+msgid "Groups"
+msgstr ""
+
+#: includes/templates/action-emma.html.php:32
+msgid "First Name Field"
+msgstr ""
+
+#: includes/templates/action-emma.html.php:57
+msgid "Last Name Field"
+msgstr ""
+
+#: includes/templates/action-emma.html.php:82
+msgid "Email Field"
+msgstr ""
+
+#: includes/templates/action-emma.html.php:107
+msgid "Opt-In Field"
+msgstr ""
+
+#: includes/templates/action-emma.html.php:111
+msgid "None"
+msgstr ""
+
+#: includes/templates/admin-menu-audience.html.php:12
+msgid "Group List"
+msgstr ""
+
+#: includes/templates/admin-menu-audience.html.php:27
+msgid "New Group Name"
+msgstr ""
+
+#: includes/templates/admin-menu-audience.html.php:36
+msgid "New Group Type"
+msgstr ""
+
+#: includes/templates/admin-menu-audience.html.php:51
+msgid "Add New Group"
+msgstr ""
+
+#: includes/templates/admin-menu-settings.html.php:32
+msgid "Save Settings"
+msgstr ""
+
+#: includes/templates/admin-menu-toolbar.html.php:4
+msgid "Settings"
+msgstr ""
+
+#: includes/templates/admin-menu-toolbar.html.php:8
+msgid "Audience"
+msgstr ""
+
+#: includes/templates/admin-menu-toolbar.html.php:13
+msgid "MyEmma.com"
+msgstr ""
+
+#: includes/templates/admin-submissions.html.php:5
+msgid "Member ID"
+msgstr ""
